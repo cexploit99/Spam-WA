@@ -1,9 +1,9 @@
 # Spam-WA
 Spam-WA adalah tools yang sengaja dibuat untuk menjahilin teman atau penipu
 
-<img src="https://github.com/cexploit99/Spam-WA/blob/main/spam-wa.jpg" height="600"/>
+<img src="https://github.com/cexploit99/Spam-WA/blob/main/spam-wa.jpg" height="400"/>
 <br>
-<img src="https://github.com/cexploit99/Spam-WA/blob/main/bom.jpg" height="300"/>
+<img src="https://github.com/cexploit99/Spam-WA/blob/main/bom.jpg" height="200"/>
 <br>
 
 Perintah Menjalankan  :
